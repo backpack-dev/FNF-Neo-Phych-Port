@@ -11,6 +11,6 @@ Not a mod remake
 
 Link is here Below
 ```
-Original Mod here: [https://gamebanana.com/mods/44230](url)
+Original Mod here: https://gamebanana.com/mods/44230 (Btw, You have to copy and paste on the browser bar)
 
 ### Screenshot
