@@ -1,4 +1,4 @@
-## FNF Neo Phych Port
+## FNF Neo Psych Port
 
 Coming Soon
 
