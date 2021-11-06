@@ -14,4 +14,5 @@ Link is here Below
 Original Mod here: https://gamebanana.com/mods/44230 (Btw, You have to copy and paste on the browser bar)
 
 ### Screenshot
-![Octocat](https://raw.githubusercontent.com/backpack-dev/FNF-Neo-Psych-Port/gh-pages/image_2021-11-06_142338.png)
+![Week 3](https://raw.githubusercontent.com/backpack-dev/FNF-Neo-Psych-Port/gh-pages/image_2021-11-06_142338.png)
+![Tutoral but not a Neo Stage](https://github.com/backpack-dev/FNF-Neo-Psych-Port/blob/gh-pages/image_2021-11-06_142807.png?raw=true)
