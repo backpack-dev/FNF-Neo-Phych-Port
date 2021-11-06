@@ -19,3 +19,4 @@ Original Mod here: https://gamebanana.com/mods/44230 (Btw, You have to copy and 
 ![No crowd lol](https://raw.githubusercontent.com/backpack-dev/FNF-Neo-Psych-Port/gh-pages/image_2021-11-06_145302.png)
 
 ### Download Link
+https://github.com/backpack-dev/FNF-Neo-Psych-Port/releases/tag/Release
